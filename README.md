@@ -1,2 +1,0 @@
-# MarkerCluster
-Created with CodeSandbox
